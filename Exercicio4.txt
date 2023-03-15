@@ -1,0 +1,14 @@
+Vamos primeiramente calcular quanto tempo leva para os veículos se cruzarem.
+A distância entre as cidades de Ribeirão Preto e Franca é de 100 km. Como os veículos estão se aproximando um do outro, eles percorrem a soma das distâncias que estão entre eles:
+100 km (distância entre Ribeirão Preto e Franca) + 100 km (distância entre Franca e Ribeirão Preto) = 200 km.
+A velocidade total dos veículos em relação um ao outro é a soma das suas velocidades:
+110 km/h + 80 km/h = 190 km/h.
+O tempo necessário para que os veículos se cruzem é então:
+200 km / 190 km/h = 1,05 h
+No entanto, o caminhão leva 5 minutos a mais para passar em cada um dos dois pedágios, enquanto o carro passa sem parar. Portanto, o caminhão perde um total de 10 minutos, ou 0,1667 horas.
+O tempo total de viagem do caminhão será, portanto, de 1,05 h + 0,1667 h = 1,2167 h.
+Nesse tempo, o carro percorre uma distância de:
+110 km/h x 1,2167 h = 133,837 km
+O caminhão percorre uma distância de:
+80 km/h x 1,2167 h = 97,334 km
+Quando eles se cruzarem na rodovia, o carro estará mais próximo da cidade de Ribeirão Preto, pois ele terá percorrido uma distância maior do que o caminhão.
